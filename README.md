@@ -1,6 +1,7 @@
 # JasmaniAI-Senjata-Baru-dalam-Tes-Kebugaran-Militer
 **Pembuka:** Disini kami membuat sebuah model machine learning menggunakan Time-Series, menggunakan sebuah dataset yang telah tersedia di kagle 
 - Dataset Link: https://www.kaggle.com/datasets/naufalarits/data-garjas-universitas-pertahanan
+- Notebook digunakan path : https://github.com/Brotur/JasmaniAI-Senjata-Baru-dalam-Tes-Kebugaran-Militer/blob/main/Capstone_Time_SeriesFIX.ipynb
 - Library yang harus tersedia :
 
 ### 📚 Library yang Digunakan
